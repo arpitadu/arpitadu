@@ -16,6 +16,9 @@ I'm a researcher with a strong focus on medical image analysis, leveraging quant
 ---
 
 ## 🛠️ Skills
+- Data Analysis
+- Machine Learning
+- Computer Vision
 
 ### 💬 Languages  
 - Python 
@@ -24,8 +27,6 @@ I'm a researcher with a strong focus on medical image analysis, leveraging quant
 ### 🗄️ Databases  
 - MySQL  
 - Microsoft SQL Server  
-
-
 ---
 
 ## 📝 Latest Blog Posts
