@@ -30,6 +30,9 @@ I'm a researcher with a strong focus on medical image analysis, leveraging quant
 - Microsoft SQL Server  
 ---
 
-## Connect with me
+## Find my latest blogs
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@arpita.)
 
+
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpitadu)
