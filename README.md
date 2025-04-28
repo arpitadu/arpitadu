@@ -19,6 +19,7 @@ I'm a researcher with a strong focus on medical image analysis, leveraging quant
 - Data Analysis
 - Machine Learning
 - Computer Vision
+- Statistical Analysis
 
 ### 💬 Languages  
 - Python 
@@ -29,6 +30,6 @@ I'm a researcher with a strong focus on medical image analysis, leveraging quant
 - Microsoft SQL Server  
 ---
 
-## 📝 Latest Blog Posts
+## Connect with me
 
-- **Medium blogs**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpitadu)
