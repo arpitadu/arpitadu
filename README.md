@@ -24,6 +24,7 @@ I'm a researcher with a strong focus on medical image analysis, leveraging quant
 ### 💬 Languages  
 - Python 
 - R
+- MATLAB
 
 ### 🗄️ Databases  
 - MySQL  
