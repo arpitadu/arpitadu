@@ -7,8 +7,8 @@ I'm a researcher with a strong focus on medical image analysis, leveraging quant
 
 ## 👨‍💻 About Me
 
-- **📍 Location:** Auckland, New Zealand
-- **💼 Experience:** 6+ years of professional experience and 4+ years of research experience.  
+- **📍 Location:** Miami, USA
+- **💼 Experience:** 6+ years of professional experience and 6 years of research experience.  
 - **🎓 Education:**  
   - Masters in Data Science
   - PhD in Bioengineering
@@ -20,6 +20,7 @@ I'm a researcher with a strong focus on medical image analysis, leveraging quant
 - Machine Learning
 - Computer Vision
 - Statistical Analysis
+- Medical Image Analysis
 
 ### 💬 Languages  
 - Python 
